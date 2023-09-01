@@ -19,9 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello there, welcome to my corner of the internet! I'm thrilled to have you here. I'm a software engineer with a passion for crafting digital solutions that make life a little smoother. My journey started at Stony Brook University in New York, where I immersed myself in the world of Computer Engineering.
-
-I then ventured to BITS Pilani, where I embraced the beauty of Electronics and Instrumentation. These educational adventures laid the groundwork for my exciting career.
+Hello there, welcome to my corner of the internet! I'm thrilled to have you here. I'm a software engineer with a passion for crafting digital solutions that make life a little smoother. My journey started at BITS Pilani, where I immersed myself in the world of Computer Science and Engineering. Currently, I am pursuing my masters at Stony Brook University endeavouring through new challenges and aspects of life.
 
 While working as a Software Development Engineer at Target, where I've been lucky enough to be part of some amazing projects. From enhancing microservice scalability to making payment systems more seamless, every line of code I write aims to create a positive impact.
 

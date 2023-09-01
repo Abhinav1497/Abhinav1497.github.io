@@ -1,81 +1,52 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Convex Optimization in Trust Region Policy Optimization
+description: 
+
+img: assets/img/16.png
 importance: 2
 category: work
 giscus_comments: true
 ---
-
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+This research investigates the application of Trust Region Policy Optimization (TRPO) in reinforcement learning using convex optimization techniques. Utilizing the CVX software suite, we construct and resolve the restricted optimization problem that develops during the policy optimization phase. Our findings point to fresh directions for future study in this field and show how convex optimization might be used to solve the challenge of policy optimization. Our work has sig- nificant applications in fields including robotics, autonomous systems, and making decisions in the face of uncertainty.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/15.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/18.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/17.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    optimization analysis vs parameters and code snippet 
 </div>
+
+To assess the performance of the TRPO algorithm under dif- ferent discount factors, we evaluate its performance across a range of 𝛾 values. Figure 2 illustrates the performance of the algorithm as the discount factor varies. The plot shows that as 𝛾 increases, the average performance also increases, indi- cating a stronger consideration for future rewards. However, beyond a certain point, the performance saturates, suggest- ing diminishing returns for higher 𝛾 values. This trade-off between immediate and future rewards can be crucial in designing policies for reinforcement learning tasks.
+
+
+
+We plot the surrogate objective function versus x to visu- alize the behavior of the optimization process. The surro- gate objective function captures the expected return of each state-action pair and serves as a proxy for the true objective function.
+Figure 3 shows the plot of the surrogate objective func- tion as a function of x. The graph provides insights into the optimization landscape and helps in understanding how the algorithm explores different states to find the optimal
+solution.
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/19.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    code snippet
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+The Trust Region Policy Optimization (TRPO) algorithm was applied in this research, and its effectiveness with regard to a reinforcement learning problem was assessed. Our research revealed that the TRPO algorithm successfully increased expected returns by optimizing policy parameters.
 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+The algorithm’s capacity to recognize state-action com- binations with high expected returns was highlighted by the comparison of the optimal solution to the state variable and optimization was shown by the graph of the surrogate objective function.
 
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+We also looked into how the discount factor 𝑔𝑎𝑚𝑚𝑎 af- fected performance. The trade-off between now and future benefits was exposed by the many optimal solutions for var- ious 𝑔𝑎𝑚𝑚𝑎 values. Future research could compare TRPO to other reinforcement learning algorithms and apply it to more complicated situations.
+Overall, the TRPO algorithm demonstrated its efficiency in maximizing expected returns and optimizing policy pa- rameters. This project improved our comprehension of op- timization and reinforcement learning approaches, which helped to advance their usefulness.
