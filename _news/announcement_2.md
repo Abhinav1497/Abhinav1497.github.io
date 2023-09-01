@@ -1,32 +1,24 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Embracing New Horizons - Celebrating the Completion of My Undergraduate Journey and the Beginning of an Exciting Chapter
+date: 2019-05-15 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+Dear friends and colleagues,
 
-***
+I am thrilled to share a significant milestone in my journey. After four transformative years at Birla Institute of Technology and Science (BITS), Pilani, I have successfully completed my undergraduate studies.
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+My time at BITS Pilani has been nothing short of exceptional. I've had the privilege to learn from some of the brightest minds, tackle challenging academic projects, and engage in enriching extracurricular activities. The experiences, friendships, and knowledge gained during my time here have been invaluable, shaping me both personally and professionally.
 
-#### Hipster list
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
+As I step into the next phase of my life, I am excited to announce that I will be joining Target Corporation as a Software Engineer. This marks the beginning of a new and exciting chapter in my career, and I am eager to apply the skills and knowledge I have acquired during my education to contribute to Target's mission.
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+I want to express my heartfelt gratitude to my professors, mentors, friends, and family for their unwavering support and guidance throughout my academic journey. Without your encouragement, I would not have reached this point.
 
-***
+I look forward to the challenges and opportunities that lie ahead in my role at Target Corporation and am committed to making the most of this incredible opportunity. I am excited to continue learning and growing as a software engineer, and I'm grateful for the experiences that have brought me to this point.
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+Thank you all for being a part of my journey so far, and I hope to make you proud as I embark on this new adventure.
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+Warm regards,
+Abhinav.
