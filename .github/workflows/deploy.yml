@@ -28,6 +28,8 @@ jobs:
         bundler-cache: true
     - name: Install and Build 🔧
       run: |
+        pwd
+        git branch -a
         pip3 install --upgrade jupyter
         npm install -g mermaid.cli
         export JEKYLL_ENV=production
