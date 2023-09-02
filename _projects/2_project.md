@@ -25,7 +25,7 @@ This research investigates the application of Trust Region Policy Optimization (
     optimization analysis vs parameters and code snippet 
 </div>
 
-To assess the performance of the TRPO algorithm under dif- ferent discount factors, we evaluate its performance across a range of 𝛾 values. Figure 2 illustrates the performance of the algorithm as the discount factor varies. The plot shows that as 𝛾 increases, the average performance also increases, indi- cating a stronger consideration for future rewards. However, beyond a certain point, the performance saturates, suggest- ing diminishing returns for higher 𝛾 values. This trade-off between immediate and future rewards can be crucial in designing policies for reinforcement learning tasks.
+To assess the performance of the TRPO algorithm under different discount factors, we evaluate its performance across a range of 𝛾 values. Figure 2 illustrates the performance of the algorithm as the discount factor varies. The plot shows that as 𝛾 increases, the average performance also increases, indi- cating a stronger consideration for future rewards. However, beyond a certain point, the performance saturates, suggest- ing diminishing returns for higher 𝛾 values. This trade-off between immediate and future rewards can be crucial in designing policies for reinforcement learning tasks.
 
 
 
