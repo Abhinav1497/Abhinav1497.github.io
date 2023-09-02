@@ -5,7 +5,7 @@ description:
 
 img: assets/img/16.png
 importance: 2
-category: work
+category: Work
 giscus_comments: true
 ---
 This research investigates the application of Trust Region Policy Optimization (TRPO) in reinforcement learning using convex optimization techniques. Utilizing the CVX software suite, we construct and resolve the restricted optimization problem that develops during the policy optimization phase. Our findings point to fresh directions for future study in this field and show how convex optimization might be used to solve the challenge of policy optimization. Our work has sig- nificant applications in fields including robotics, autonomous systems, and making decisions in the face of uncertainty.
