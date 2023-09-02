@@ -34,7 +34,7 @@ jobs:
         bundle exec jekyll build
     - name: Deploy 🚀
       if: github.event_name != 'pull_request'
-      uses: Abhinav1497/gh-pages
+      uses: JamesIves/github-pages-deploy-action@v4
       with:
         folder: _site
 
