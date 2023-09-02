@@ -21,7 +21,7 @@ group :jekyll_plugins do
     gem 'unicode_utils'
     gem 'webrick'
     gem 'kramdown-parser-gfm'
-    gem 'github-pages'
+
 end
 group :other_plugins do
     gem 'feedjira'
