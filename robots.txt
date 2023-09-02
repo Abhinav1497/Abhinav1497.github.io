@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://abhinav1497.github.io/sitemap.xml
+Sitemap: https://abhinav1497.github.io/pages/Abhinav1497/Abhinav1497.github.io.git/sitemap.xml
