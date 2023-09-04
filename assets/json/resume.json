@@ -27,8 +27,8 @@
       "name": "Target Corporation",
       "position": "Software Engineer",
       "url": "https://www.target.com",
-      "startDate": "2019-15-07",
-      "endDate": "2022-11-06",
+      "startDate": "2019-07-15",
+      "endDate": "2022-06-15",
       "summary": "Software Development Engineer, Core Commerce - Target Tech",
       "highlights": [
         " Designed Kafka Consumer Segregation design for “Order Pick Up” and “Ship from Store” flows achieving 20 percent increment in the microservice scalability.",
@@ -44,8 +44,8 @@
       "name": "UST Global",
       "position": "Software Engineer Intern",
       "url": "https://www.ust.com",
-      "startDate": "2018-15-07",
-      "endDate": "2018-15-12",
+      "startDate": "2018-07-15",
+      "endDate": "2018-12-15",
       "summary": "Software Development Intern",
       "highlights": [
         "Attained 100 percent automation of ”Intelligent Loan System” using REST API to deliver insurance claims to BMW clients on the basis of database-generated profiles.",
