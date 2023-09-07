@@ -5,7 +5,7 @@
     "image": "",
     "email": "abhinav.chauhan@stonybrook.edu",
     "phone": "929-569-6994",
-    "url": "http://127.0.0.1:4000/portfolio/",
+    "url": "",
     "summary": "",
     "location": {
       "address": "700 Health Sciences Drive",
@@ -118,12 +118,12 @@
   "references": [],
   "projects": [
     { 
-      "name": "Replicated State Machine - Raft",
+      "name": "Amazon DynamoDB Prototype implementation with Raft Consensus Protocol",
       "startDate": "2022-07-07",
       "endDate": "2022-09-09",
       "highlights": [
-        "Implemented Raft, a replicated state machine protocol to design a fault tolerance key-value storage system.",
-        "Executed a set of Raft instances communicating with Remote Procedure Calls (RPC) to maintain replicated logs."
+        "Implemented Raft consensus protocol to design a fault-tolerant key/value storage system across 5 server replicas.",
+        "Engineered a set of Raft instances to maintain enhanced replicated logs across 20 servers and 4 replica groups."
       ]
     },
     {
@@ -131,7 +131,17 @@
       "startDate": "2020-08-08",
       "endDate": "2020-10-10",
       "highlights": [
-        "Implemented a WorkFlow Executor model to analyze thread safety in a multi-threaded processor achieving a 20 percent efficient processing."
+        "Implemented a WorkFlow Executor model to analyze thread safety in a multi-threaded processor achieving a 20 percent efficient processing.",
+        "Orchestrated a thread pool management strategy, leading to a 35 percent overall system efficiency improvement, achieved by reducing thread contention and optimizing resource utilization."
+      ]
+    },
+    {
+      "name": "ChatBot implementation with LSTM and CBOW",
+      "startDate": "2023-03-03",
+      "endDate": "2023-05-05",
+      "highlights": [
+        "Designed LSTM and CBOW models for a chat system, achieving an impressive 93 percent accuracy rate in comprehending and generating responses to user queries.",
+        "Effectively mitigated overfitting and guaranteed robust model performance with a consistent epoch loss reduction of only 6 percent, showcasing adept model optimization and training."
       ]
     },
     {
